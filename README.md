@@ -9,7 +9,7 @@ Me chamo Julia Cristina de Arruda, tenho 21 anos e sou natural de São Paulo. Co
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,git,github,mysql,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode" />
   </a>
 </p>
 
